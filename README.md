@@ -22,7 +22,7 @@ sudo apt install chrome-gnome-shell gnome-tweak-tool
 
 ### ubuntu software center
 ```sh
-sudo apt install ubuntu-software 
+sudo apt install gnome-software 
 sudo apt install snapd
 sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak gnome-software-plugin-snap
