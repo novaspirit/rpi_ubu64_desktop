@@ -34,6 +34,11 @@ apt install preload
 ```
 
 ### box86 install
+you can install via source which i would recommend
+https://github.com/ptitSeb/box86(https://github.com/ptitSeb/box86)
+or download the compile and packaged DEB from my discord 
+https://discord.gg/v8dAnFV(https://discord.gg/v8dAnFV)
+
 ```sh
 sudo dpkg --add-architecture armhf
 ```
