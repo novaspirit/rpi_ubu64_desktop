@@ -81,6 +81,7 @@ gnome extenstions I used
 | user themes | https://extensions.gnome.org/extension/19/user-themes/ |
 | compiz alike window (wobbly) | https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/ |
 | cpufreq(konkor) | https://extensions.gnome.org/extension/1082/cpufreq/ |
+| Tray Icons | https://extensions.gnome.org/extension/1503/tray-icons/ |
 
 
 ### Programs
