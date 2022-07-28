@@ -84,6 +84,7 @@ gnome extenstions I used
 | compiz alike window (wobbly) | https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/ |
 | cpufreq(konkor) | https://extensions.gnome.org/extension/1082/cpufreq/ |
 | Tray Icons | https://extensions.gnome.org/extension/1503/tray-icons/ |
+| TopHat | https://extensions.gnome.org/extension/5219/tophat/ |
 
 
 ### Programs
