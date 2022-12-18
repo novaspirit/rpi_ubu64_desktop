@@ -85,7 +85,12 @@ gnome extenstions I used
 | cpufreq(konkor) | https://extensions.gnome.org/extension/1082/cpufreq/ |
 | Tray Icons | https://extensions.gnome.org/extension/1503/tray-icons/ |
 | TopHat | https://extensions.gnome.org/extension/5219/tophat/ |
-
+| Clipboard Indicator | https://extensions.gnome.org/extension/779/clipboard-indicator/ |
+| Coverflow Alt-Tab | https://extensions.gnome.org/extension/97/coverflow-alt-tab/ |
+| Desktop Cube | https://extensions.gnome.org/extension/4648/desktop-cube/ |
+| Rounded Window Corners | https://extensions.gnome.org/extension/5237/rounded-window-corners/ |
+| Rounded Corners | https://extensions.gnome.org/extension/1514/rounded-corners/ |
+| GSconnect | https://extensions.gnome.org/extension/1319/gsconnect/ |
 
 ### Programs
 olive
