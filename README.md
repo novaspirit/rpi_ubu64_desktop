@@ -81,7 +81,7 @@ gnome extenstions I used
 | blur my shell | https://extensions.gnome.org/extension/3193/blur-my-shell/ |
 | dash to panel | https://extensions.gnome.org/extension/1160/dash-to-panel/ |
 | user themes | https://extensions.gnome.org/extension/19/user-themes/ |
-| compiz alike window (wobbly) | https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/ |
+| compiz alike window (wobbly) | https://extensions.gnome.org/extension/3210/compiz-windows-effect/ |
 | cpufreq(konkor) | https://extensions.gnome.org/extension/1082/cpufreq/ |
 | Tray Icons | https://extensions.gnome.org/extension/1503/tray-icons/ |
 | TopHat | https://extensions.gnome.org/extension/5219/tophat/ |
